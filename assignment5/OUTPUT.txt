@@ -1,0 +1,67 @@
+
+========================================
+   LOADING DEMO DATA...   
+Demo Data Ready.
+========================================
+
+--- SOCIAL NETWORK EXPLORER ---
+1: Add | 2: View | 3: Update | 4: Friend | 5: BFS | 6: DFS | 7: Recs | 8: Exit
+
+Select a number: 1
+ID: 123
+Name: raju
+Age: 16
+Interests (comma): games
+>> Added.
+
+--- SOCIAL NETWORK EXPLORER ---
+1: Add | 2: View | 3: Update | 4: Friend | 5: BFS | 6: DFS | 7: Recs | 8: Exit
+
+Select a number: 2
+Enter ID to View: 123
+
+FOUND: raju, Age: 16, Interests: ['games']
+
+--- SOCIAL NETWORK EXPLORER ---
+1: Add | 2: View | 3: Update | 4: Friend | 5: BFS | 6: DFS | 7: Recs | 8: Exit
+
+Select a number: 3
+ID to Update: 123
+New Name: rahul
+>> Updated.
+
+--- SOCIAL NETWORK EXPLORER ---
+1: Add | 2: View | 3: Update | 4: Friend | 5: BFS | 6: DFS | 7: Recs | 8: Exit
+
+Select a number: 4
+ID 1: 123
+ID 2: 1234 
+
+--- SOCIAL NETWORK EXPLORER ---
+1: Add | 2: View | 3: Update | 4: Friend | 5: BFS | 6: DFS | 7: Recs | 8: Exit
+
+Select a number: 5
+Start ID: 123
+End ID: 1234
+>> Path: []
+
+--- SOCIAL NETWORK EXPLORER ---
+1: Add | 2: View | 3: Update | 4: Friend | 5: BFS | 6: DFS | 7: Recs | 8: Exit
+
+Select a number: 6
+ID: 1
+Depth: 4
+>> Reachable: set()
+
+--- SOCIAL NETWORK EXPLORER ---
+1: Add | 2: View | 3: Update | 4: Friend | 5: BFS | 6: DFS | 7: Recs | 8: Exit
+
+Select a number: 7
+User ID: 123
+>> Recommendations: []
+
+--- SOCIAL NETWORK EXPLORER ---
+1: Add | 2: View | 3: Update | 4: Friend | 5: BFS | 6: DFS | 7: Recs | 8: Exit
+
+Select a number: 8
+Goodbye!
